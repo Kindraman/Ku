@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraCycle : MonoBehaviour {
 
-
+	//Hice un cambito.
 	public Camera[] cameraArr;
 	private int index;
 	// Use this for initialization
